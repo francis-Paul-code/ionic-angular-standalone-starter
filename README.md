@@ -22,7 +22,7 @@ This is a starter project for building mobile and web applications using Ionic A
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/ionic-angular-starter.git
+    git clone https://github.com/francis-Paul-code/ionic-angular-standalone-starter.git
     cd ionic-angular-starter
     ```
 
